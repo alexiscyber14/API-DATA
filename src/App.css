@@ -103,13 +103,12 @@ header nav ul .routing i {
 .homeContainer .content {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
   flex-wrap: wrap;
 }
 
 .homeContainer .content .listItem {
-  width: 42%;
-  border: 1px solid rgb(231, 224, 224);
+  width: 43%;
+  border:1px solid rgba(209, 209, 209, 0.603);
   text-decoration: none;
   display: flex;
   color: white;
