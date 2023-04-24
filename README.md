@@ -46,7 +46,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
-Git clone https://github.com/alexiscyber14/DATA.git
+Git clone https://github.com/alexiscyber14/API-DATA.git
 ### Prerequisites
 
 In order to run this project you need:
@@ -56,7 +56,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
   cd my-folder
-  git clone https://github.com/alexiscyber14/DATA.git
+  git clone https://github.com/alexiscyber14/API-DATA.git
 
 
 
