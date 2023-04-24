@@ -380,7 +380,7 @@ header nav ul .routing i {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    box-shadow: 2px 2px 8px white;
+    box-shadow: 3px 3px 8px white;
     padding: 2% 0%;
     font-size: 25px;
     color: white;
